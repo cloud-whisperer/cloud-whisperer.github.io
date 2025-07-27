@@ -1,7 +1,5 @@
-# cloud-whisperer.github.io  🕷️🍕💻
+# 🏗️ cloud-whisperer.github.io  🕷️🍕💻
 My Cloud Security Portfolio
-
-# 🏗️ YourSiteName
 
 ## 🚧 Coming Soon
 
@@ -36,7 +34,6 @@ Feel free to reach out:
 
 - 📧 Email: `yourname@example.com`
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
