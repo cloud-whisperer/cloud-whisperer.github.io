@@ -26,6 +26,12 @@ At the core of my work, is a committment to building secure, meaningful architec
 ingestion workflows, or creating efficient dynamic alert remediation processes. <br>I do not simply learn tools, I immerse myself in the how and why they work, driven by an 
 insatiable curiosity and a desire to understand systems from the inside out. 
 
+Technical lead with proven expertise in Linux systems administration, cloud infrastructure, and application administration for secure 
+environments across AWS, Azure, Oracle ecosystems. Skilled in system provisioning, backups/restores, patching, and troubleshooting for 
+complex deployments and upgrades/updates. Hands-on professional and home-lab experience with STIG-aligned hardening, Ubuntu and Rocky 
+Linux servers, database administration. Adept in secure deployments, SSO/LDAP integrations, and automation using Terraform and Ansible. 
+Recognised for strong technical aptitude, cross-functional collaboration, and success in air-gapped and compliance-driven environments. 
+
 ---
 
 ## 🚀 Projects
@@ -82,13 +88,16 @@ insatiable curiosity and a desire to understand systems from the inside out.
   <br>WISP Volunteer Manager for BlackHat
   <br>DefCon Volunteer for WISP Community and Vendour Booth
   <br>The Diana Initiative - WISP volunteer
-- **Grace Hopper Celebration (AnitaB.org) (2025)** - Review member
-- 🧠 O’Reilly - On staff as a technical reviewer
+- **Grace Hopper Celebration (AnitaB.org) (2025)** - Review member                2025
+- 🧠 O’Reilly - On staff as a technical reviewer                                  2025
+- Scholarship Review Committee Member – Women in Security and Privacy (WISP)      2025
 
 ---
 
 ## 🔒  Conferences
 - AWS re:Invent                                               2025
+- SANS and WiCyS Security Training Scholarship recipient – Tier I        2025 
+- WiCyS Professional Mentorship Program                  2025-2026 
 - SANS 2025 Cloud Securite Exchange                           2025
 - Hacker Summer Camp (BlackHat, DefCon, The Diana Initiative) 2025
 - Identiverse                                                 2025-06
@@ -99,7 +108,6 @@ insatiable curiosity and a desire to understand systems from the inside out.
 - AWS re:Invent                                               2024
 - Cloud Native Securite Con (CNSC)                            2024
 - AWS All Builder's Welcome re:Invent grant recipient         2023
----
 
 
 ---
